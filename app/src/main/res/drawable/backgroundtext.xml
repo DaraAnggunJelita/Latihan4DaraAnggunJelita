@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item>
+    <shape android:shape="rectangle">
+        <corners
+            android:bottomLeftRadius="50dp"
+            android:bottomRightRadius="50dp"
+            android:topLeftRadius="50dp"
+            android:topRightRadius="50dp"
+            />
+        <gradient
+            android:angle=""
+            android:startColor="#81BD3A"
+            android:centerColor="#AAB448"
+            android:endColor="#D9A816"
+            android:type="linear"
+            />
+        <padding android:left="10dp" android:right="10dp" android:bottom="5dp" android:top="5dp"/>
+
+    </shape>
+</item>
+
+</level-list>
